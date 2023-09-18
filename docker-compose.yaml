@@ -1,0 +1,7 @@
+services:
+  github-pages:
+    image: bretfisher/jekyll-serve
+    volumes:
+      - .:/site
+    ports:
+      - '4000:4000'

@@ -1,0 +1,13 @@
+- name: Languages
+  keywords:
+      - Java
+      - Go
+      - Python
+      - Design Patterns
+
+- name: Middlewares
+  keywords:
+      - Rocket Mq
+      - Redis
+      - Mysql
+      - Dynamo DB

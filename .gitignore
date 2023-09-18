@@ -7,3 +7,5 @@ _site/
 Gemfile.lock
 .vscode/
 .jekyll-metadata
+posts/.obsidian
+posts/assets
