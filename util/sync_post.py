@@ -2,8 +2,6 @@ import shutil
 import os
 from pathlib import Path
 
-post_path = 'D:\OneDrive - zju.edu.cn\桌面\codes\cuixiaodao.github.io\_posts\2021-09-14-k8s-applications.md'
-
 
 def sync_post(post_fn:str):
     src_path = Path('posts', post_fn)
@@ -25,7 +23,7 @@ def sync_post(post_fn:str):
     print('sync finished')
 
 def main():
-    sync_post('2021-09-14-k8s-applications.md')
+    sync_post('2024-09-09-从一次HTTP请求看TCP IP协议.md')
 
 if __name__ == '__main__':
     main()
