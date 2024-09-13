@@ -5,7 +5,8 @@ categories: network
 description: 
 keywords: network
 ---
-这篇笔记的目的通过分析一次HTTP请求，梳理常见的TCP/IP协议，温故而知新
+
+这篇笔记的目的通过分析一次HTTP请求，梳理常见的TCP/IP协议，温故而知新。 <!--more-->
 
 ![](assets/2024-09-09-从一次HTTP请求看TCP%20IP协议/image-20240913220214988.png)
 
