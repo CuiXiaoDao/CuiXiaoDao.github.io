@@ -6,7 +6,8 @@ description: 开源改变世界。
 permalink: /open-source/
 ---
 
-{% if site.github.public_repositories != false %}
+{% if false %}
+<!-- {% if site.github.public_repositories != false %} -->
 {% assign sorted_repos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
 
 <section class="container">
