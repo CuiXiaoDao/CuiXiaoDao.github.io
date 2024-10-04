@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-09-09-从一次HTTP请求看TCP IP协议
+title: 从一次HTTP请求看TCP IP协议
 categories: network
 description: 
 keywords: network, TCP, IP, HTTP
